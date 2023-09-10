@@ -11,4 +11,6 @@ To compile and run this project, you need the following:
 
 ## Usage
 1. Compile the project using the provided Makefile:
+   ```
    'make'
+```
