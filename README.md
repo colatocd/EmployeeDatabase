@@ -10,6 +10,5 @@ To compile and run this project, you need the following:
 - Linux/Unix-like operating system
 
 ## Usage
-1. Clone the repository to your local machine:
-
-   ```shell
+1. Compile the project using the provided Makefile:
+   'make'
